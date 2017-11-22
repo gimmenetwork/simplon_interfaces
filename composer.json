@@ -1,0 +1,26 @@
+{
+  "name": "simplon/interfaces",
+  "description": "Generic interfaces",
+  "homepage": "https://github.com/fightbulc/simplon_interfaces",
+  "type": "library",
+  "keywords": [
+    "interfaces"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tino Ehrich",
+      "email": "tino@bigpun.me",
+      "role": "developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Simplon\\Interfaces\\": "src/"
+    }
+  }
+}
