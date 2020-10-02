@@ -1,6 +1,6 @@
 {
-  "name": "simplon/interfaces",
-  "description": "Generic interfaces",
+  "name": "gimmenetwork/simplon_interfaces",
+  "description": "[FORK] Generic interfaces",
   "homepage": "https://github.com/fightbulc/simplon_interfaces",
   "type": "library",
   "keywords": [
